@@ -1,0 +1,23 @@
+/*  This file is part of Cycle Slideshow Plugin for WordPress.
+
+    Cycle Slideshow Plugin for WordPress is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+	MIT License/GNU License
+	http://www.opensource.org/licenses/mit-license.php
+	http://www.gnu.org/licenses/gpl.html
+	Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so.
+
+    */
+
+.wordcycle { overflow:hidden; }
+
+.wordcycle.alignright {float:right; margin:0 0 1em 1em}
+.wordcycle.alignleft {float:left; margin:0 1em 1em 0}
+.wordcycle.aligncenter {display: block; margin-left: auto; margin-right: auto}
+
+.wordcycle.left { float:left; }
+.wordcycle.right { float:right; }
+
+.cycle-item {  }
+.cycle-item img { margin:0; }
+.cycle-caption { font-size:80%; }
